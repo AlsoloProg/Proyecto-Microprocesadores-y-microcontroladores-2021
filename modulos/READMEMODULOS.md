@@ -1,1 +1,1 @@
-Aquí se incluyen los módulos para la implementación del ISA RISCV32.
+Aquí se incluyen los módulos para implementar el microprocesador que soporta el ISA RISCV32.
