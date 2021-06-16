@@ -1,1 +1,1 @@
-
+Esta carpeta contiene todos los archivos de texto necesarios para la correcta ejecución de la microarquitectuira. Estos cargan las memorias de datos y registros en cero. Además, cargan las cinco memorias de instrucciones con los cinco códigos asignados. 
